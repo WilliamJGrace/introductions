@@ -1,3 +1,4 @@
+puts "Have I changed my passphrase"
 puts "HELLO EVERYONE"
 puts "hello"
 puts "Hello Daria!"
